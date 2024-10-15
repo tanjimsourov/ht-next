@@ -1,11 +1,12 @@
 .wwi-wrapper .container {
-    padding-top: 13rem
+    padding-top: 13rem;
 }
 
 .wwi-container {
     display: flex;
     justify-content: space-between;
-    align-items: center
+    align-items: center;
+    
 }
 
 .wwi-container>div {
@@ -43,7 +44,7 @@
 
 
 .wwi-feature .des {
-    color: #17314f
+    color: var(--fourth-color)
 }
 
 .wwi-feature .text {
