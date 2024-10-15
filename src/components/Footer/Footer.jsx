@@ -28,7 +28,7 @@ const Footer = () => {
                     </div>
                     </div>
                     <hr />
-                    <span class="text">&copy; Husmerk TECH All Rights Resereved</span>
+                    <span class="text">&copy; Husmerk TECH All Rights Reserved</span>
                 </div>
             </div>
         </div>

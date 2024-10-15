@@ -90,7 +90,7 @@ const WhatWeDo = () => {
                 variants={titleVariants}
                 class="sec-title"
               >
-                Blue Seed
+                Digital Branding
               </motion.span>
               <motion.span
                 initial="offscreen"

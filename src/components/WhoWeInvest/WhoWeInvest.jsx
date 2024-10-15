@@ -21,7 +21,7 @@ const WhoWeInvest = () => {
                 variants={tagVariants}
                 class="tag"
               >
-                Who we invest in
+                Who we are
               </motion.span>
               <motion.span
                 initial="offscreen"
@@ -29,9 +29,9 @@ const WhoWeInvest = () => {
                 variants={titleVariants}
                 class="title"
               >
-                Digital businesses
+                We are a team of software engineers and business analysts,
                 <br />
-                with early traction
+                committed to delivering innovative solutions tailored to your business needs.
               </motion.span>
             </div>
 
