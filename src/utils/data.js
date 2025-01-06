@@ -122,9 +122,9 @@ export const testimonialsData = [
   },
   {
     comment:
-      "Partnering with Husmerk TECH transformed our operations. Their bespoke software solution aligned seamlessly with our requirements, enhancing our efficiency and fueling our growth. We highly recommend their services!",
-    name: "Jan R.",
-    profession: "Director, Display Anywhere",
+      "Partnering with Husmerk TECH revolutionized our operations. Their tailored software solution fit our needs perfectly, boosting our efficiency and driving our growth. We highly recommend their expertise!",
+    name: "Zakaria Mehrab",
+    profession: "CEO, Newage Garments Ld",
   },
   {
     comment:
